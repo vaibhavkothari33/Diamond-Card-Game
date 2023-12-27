@@ -44,11 +44,6 @@
     <br>
     Run the program by Clicking<a href="https://replit.com/join/jttsrxprwx-vaibhavkothari5"> Here </a>
   </ol>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
   <h2>Author</h2>
 
   <p>Author: Vaibhav Kothari</p>
