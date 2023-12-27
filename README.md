@@ -42,7 +42,7 @@
     <li>Run the Python script to play the game:</li>
     <code>python diamonds_game.py</code>
     <br>
-    <a href="https://replit.com/join/jttsrxprwx-vaibhavkothari5">Click Here</a>
+    Run the program by Clicking<a href="https://replit.com/join/jttsrxprwx-vaibhavkothari5"> Here </a>
   </ol>
 
   <h2>License</h2>
