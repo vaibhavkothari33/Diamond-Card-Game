@@ -41,6 +41,8 @@
     <code>git clone https://github.com/your-username/diamonds-card-game.git</code>
     <li>Run the Python script to play the game:</li>
     <code>python diamonds_game.py</code>
+    <br>
+    <a href="https://replit.com/join/jttsrxprwx-vaibhavkothari5">Click Here</a>
   </ol>
 
   <h2>License</h2>
