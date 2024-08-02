@@ -38,7 +38,7 @@
 
   <ol>
     <li>Clone the repository:</li>
-    <code>git clone https://github.com/your-username/diamonds-card-game.git</code>
+    <code>git clone https://github.com/vaibhavkothari33/Diamond-Card-Game.git</code>
     <li>Run the Python script to play the game:</li>
     <code>python diamonds_game.py</code>
     <br>
